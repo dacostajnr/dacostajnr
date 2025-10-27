@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dacosta Yeboah  
 
-### 🚀 Principal Engineer | AI Systems | Cloud Infrastructure | Industrial Intelligence
+### 🚀 Lead Engineer | AI Systems | Cloud Infrastructure | Industrial Intelligence
 
 I build **reliable, intelligent systems** — from **firmware and edge computing** to **cloud-scale MLOps and LLM deployment**.  
 My focus: integrating **industrial data streams**, **machine learning**, and **observability** into cohesive, high-performance ecosystems.
