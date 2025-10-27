@@ -72,10 +72,10 @@ whether you’re orchestrating containers, signals, or neurons.
 
 ### 🌍 Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🧠 [Portfolio](https://yourportfolio.com)  
-- 🐙 [GitHub Projects](https://github.com/yourusername?tab=repositories)  
-- ✉️ [Email Me](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dacostayeboah)  
+- 🧠 [Portfolio](https://yeboahdacosta.com)  
+- 🐙 [GitHub Projects](https://github.com/dacostajnr)  
+- ✉️ [Email Me](mailto:yeboahdacostagh@gmail.com)
 
 ---
 
